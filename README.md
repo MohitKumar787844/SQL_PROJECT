@@ -14,5 +14,5 @@
 ###### • Connected SQL Database to Tableau to create an interactive Dashboard.
 ###### • Created interactive Dashboard in Tableau that includes  information about business performance  like Total orders, Total sales, top selling items, sales by category and monthly trend of sale.
 
-<h1>Access Links:</h1>
-<a href="https://prod-apnortheast-a.online.tableau.com/t/mohitkumar787844/views/Castle_pizzaDashboard-Mohitkumar/OrderDashboard" target="_blank" >Tableau Order's Dashboard</a>
+<h1>Access Link:</h1>
+<a href="https://public.tableau.com/app/profile/mohit.kumar3191/viz/Castle_pizzaDashboard/OrdersDashboard?publish=yes" >Tableau Order's Dashboard</a>
