@@ -15,4 +15,4 @@
 ###### • Created interactive Dashboard in Tableau that includes  information about business performance  like Total orders, Total sales, top selling items, sales by category and monthly trend of sale.
 
 <h1>Access Links:</h1>
-<a href="https://prod-apnortheast-a.online.tableau.com/t/mohitkumar787844/views/T-SeriesProject-MohitKumar_16678246843740/Growth" target="_blank" >T-Series Tableau Dashboard</a>
+<a href="https://prod-apnortheast-a.online.tableau.com/t/mohitkumar787844/views/Castle_pizzaDashboard-Mohitkumar/OrderDashboard" target="_blank" >Tableau Order Dashboard</a>
